@@ -1,0 +1,21 @@
+SCRSAVER [A-O]
+oder nur
+SCRSAVER ist gleichbedeutend mit SCRSAVER L
+
+_always      =   0      ;A
+_1sec        =   18     ;B
+_15sec       =   273    ;C
+_30sec       =   546    ;D
+_45sec       =   819    ;E
+_1min        =   1092   ;F
+_1_5min      =   1638   ;G
+_2min        =   2184   ;H
+_3min        =   3276   ;I
+_4min        =   4368   ;J
+_5min        =   5460   ;K
+_7_5min      =   8190   ;L
+_10min       =   10920  ;M
+_15min       =   16380  ;L
+_30min       =   32760  ;M
+_45min       =   49140  ;N
+_60min       =   65520  ;O
