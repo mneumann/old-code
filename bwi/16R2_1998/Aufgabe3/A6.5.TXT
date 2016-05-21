@@ -1,0 +1,25 @@
+AUFGABE 6   -   Personen haben Prioritäten
+AUFGABE 5  -  Welche Sprachen sind als Zwischen-Stationen wichtig/weniger wichtig?
+
+Stufe 1:3
+Englisch
+
+Stufe 2:2
+Kroatisch
+
+Stufe 3:0
+Deutsch
+Französisch
+Italienisch
+Spanisch
+Portugisisch
+Schwyzerdütsch
+Dänisch
+Niederländisch
+Schwedisch
+Russisch
+Polnisch
+Tschechisch
+Ungarisch
+Serbisch
+

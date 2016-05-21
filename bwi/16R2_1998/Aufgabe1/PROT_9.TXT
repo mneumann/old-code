@@ -1,0 +1,2292 @@
+###################### Takt 0 ###################
+Melde Person An...
+	Person: 0
+   mit RAND: 6728662
+-------------------------------------------------
+Melde Person An...
+	Person: 5
+   mit RAND: 40961503
+-------------------------------------------------
+Melde Person An...
+	Person: 6
+   mit RAND: 46138964
+-------------------------------------------------
+Melde Person An...
+	Person: 13
+   mit RAND: 34149445
+-------------------------------------------------
+Melde Person An...
+	Person: 14
+   mit RAND: 51369346
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 78823067
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 63543008
+-------------------------------------------------
+###################### Takt 1 ###################
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 65129569
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 0
+   RAND: 81511150
+-------------------------------------------------
+###################### Takt 2 ###################
+Schenke Vertrauen...
+	Quell-Person: 0
+   Ziel-Person: 3
+   mit RAND: 81511150
+-------------------------------------------------
+Melde Person An...
+	Person: 3
+   mit RAND: 81511150
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 3
+   mit RAND: 78823067
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 97904151
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 0
+   RAND: 82972972
+-------------------------------------------------
+###################### Takt 3 ###################
+Schenke Vertrauen...
+	Quell-Person: 6
+   Ziel-Person: 14
+   mit RAND: 63543008
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 36190013
+-------------------------------------------------
+###################### Takt 4 ###################
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 70395674
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 93558355
+-------------------------------------------------
+###################### Takt 5 ###################
+Schenke Vertrauen...
+	Quell-Person: 0
+   Ziel-Person: 11
+   mit RAND: 82972972
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 3
+   Ziel-Person: 13
+   mit RAND: 78823067
+-------------------------------------------------
+Melde Person An...
+	Person: 11
+   mit RAND: 82972972
+-------------------------------------------------
+###################### Takt 6 ###################
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 33734456
+-------------------------------------------------
+###################### Takt 7 ###################
+Melde Zur¸ck...
+	Person: 6
+   mit RAND: 93558355
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 13
+   mit RAND: 78823067
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 14
+   mit RAND: 65129569
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 11
+   RAND: 31228377
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 11
+   RAND: 1952518
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 6728662
+K¸ndige Person...
+	Person: 0
+   mit RAND: 6728662
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 40961503
+K¸ndige Person...
+	Person: 5
+   mit RAND: 40961503
+-------------------------------------------------
+###################### Takt 8 ###################
+Schenke Vertrauen...
+	Quell-Person: 3
+   Ziel-Person: 2
+   mit RAND: 33734456
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 55987279
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 35341060
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 14
+   Person b: 3
+-------------------------------------------------
+###################### Takt 9 ###################
+Melde Person An...
+	Person: 2
+   mit RAND: 33734456
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 6
+   Person b: 14
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 81511150
+K¸ndige Person...
+	Person: 3
+   mit RAND: 81511150
+-------------------------------------------------
+###################### Takt 10 ###################
+###################### Takt 11 ###################
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 14910261
+-------------------------------------------------
+###################### Takt 12 ###################
+Melde Person An...
+	Person: 3
+   mit RAND: 14910261
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 11
+   mit RAND: 31228377
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 3
+   mit RAND: 97904151
+-------------------------------------------------
+###################### Takt 13 ###################
+Schenke Vertrauen...
+	Quell-Person: 3
+   Ziel-Person: 8
+   mit RAND: 97904151
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 6
+   Ziel-Person: 18
+   mit RAND: 35341060
+-------------------------------------------------
+Melde Person An...
+	Person: 8
+   mit RAND: 97904151
+-------------------------------------------------
+Melde Person An...
+	Person: 18
+   mit RAND: 35341060
+-------------------------------------------------
+###################### Takt 14 ###################
+Melde Zur¸ck...
+	Person: 14
+   mit RAND: 63543008
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 8
+   RAND: 90639282
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 2
+   RAND: 58880523
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 70954384
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 78823067
+K¸ndige Person...
+	Person: 13
+   mit RAND: 78823067
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 93558355
+K¸ndige Person...
+	Person: 6
+   mit RAND: 93558355
+-------------------------------------------------
+###################### Takt 15 ###################
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 26909265
+-------------------------------------------------
+###################### Takt 16 ###################
+Melde Zur¸ck...
+	Person: 2
+   mit RAND: 58880523
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 15
+   mit RAND: 36190013
+-------------------------------------------------
+Melde Person An...
+	Person: 15
+   mit RAND: 36190013
+-------------------------------------------------
+###################### Takt 17 ###################
+###################### Takt 18 ###################
+Vertrauensbeziehung abgelaufen...
+	Person a: 14
+   Person b: 3
+-------------------------------------------------
+###################### Takt 19 ###################
+Melde Zur¸ck...
+	Person: 3
+   mit RAND: 70954384
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 8
+   Ziel-Person: 16
+   mit RAND: 90639282
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 11
+   mit RAND: 1952518
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 5
+   mit RAND: 70395674
+-------------------------------------------------
+Melde Person An...
+	Person: 16
+   mit RAND: 90639282
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 18
+   Ziel-Person: 19
+   mit RAND: 26909265
+-------------------------------------------------
+Melde Person An...
+	Person: 19
+   mit RAND: 26909265
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 16
+   RAND: 52481566
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 3
+   Person b: 8
+-------------------------------------------------
+###################### Takt 20 ###################
+Melde Person An...
+	Person: 5
+   mit RAND: 70395674
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 97904151
+K¸ndige Person...
+	Person: 8
+   mit RAND: 97904151
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 35341060
+K¸ndige Person...
+	Person: 18
+   mit RAND: 35341060
+-------------------------------------------------
+###################### Takt 21 ###################
+Melde Zur¸ck...
+	Person: 14
+   mit RAND: 55987279
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 5
+   RAND: 83255687
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 60024028
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 19346989
+-------------------------------------------------
+###################### Takt 22 ###################
+Schenke Vertrauen...
+	Quell-Person: 5
+   Ziel-Person: 7
+   mit RAND: 83255687
+-------------------------------------------------
+Melde Person An...
+	Person: 7
+   mit RAND: 83255687
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 14
+   Person b: 15
+-------------------------------------------------
+###################### Takt 23 ###################
+Schenke Vertrauen...
+	Quell-Person: 19
+   Ziel-Person: 13
+   mit RAND: 60024028
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 36190013
+K¸ndige Person...
+	Person: 15
+   mit RAND: 36190013
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 58880523
+K¸ndige Person...
+	Person: 2
+   mit RAND: 58880523
+-------------------------------------------------
+###################### Takt 24 ###################
+Melde Person An...
+	Person: 13
+   mit RAND: 60024028
+-------------------------------------------------
+###################### Takt 25 ###################
+Schenke Vertrauen...
+	Quell-Person: 3
+   Ziel-Person: 13
+   mit RAND: 19346989
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 16
+   Ziel-Person: 0
+   mit RAND: 52481566
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 13
+   RAND: 43312970
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 14
+   Person b: 5
+-------------------------------------------------
+###################### Takt 26 ###################
+Melde Person An...
+	Person: 0
+   mit RAND: 52481566
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 1952518
+K¸ndige Person...
+	Person: 11
+   mit RAND: 1952518
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 90639282
+K¸ndige Person...
+	Person: 16
+   mit RAND: 90639282
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 70954384
+K¸ndige Person...
+	Person: 3
+   mit RAND: 70954384
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 26909265
+K¸ndige Person...
+	Person: 19
+   mit RAND: 26909265
+-------------------------------------------------
+###################### Takt 27 ###################
+Schenke Vertrauen...
+	Quell-Person: 13
+   Ziel-Person: 16
+   mit RAND: 19346989
+-------------------------------------------------
+Melde Person An...
+	Person: 16
+   mit RAND: 19346989
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 16
+   RAND: 12498371
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 70395674
+K¸ndige Person...
+	Person: 5
+   mit RAND: 70395674
+-------------------------------------------------
+###################### Takt 28 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hallˆr
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 16
+   RAND: 86127592
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 0
+   RAND: 13433033
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 16
+   RAND: 60215094
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 55987279
+K¸ndige Person...
+	Person: 14
+   mit RAND: 55987279
+-------------------------------------------------
+###################### Takt 29 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallCs
+--------------------------------------
+RAND abgelaufen...
+	RAND: 83255687
+K¸ndige Person...
+	Person: 7
+   mit RAND: 83255687
+-------------------------------------------------
+###################### Takt 30 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallCs
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 13
+   Ziel-Person: 7
+   mit RAND: 43312970
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 16
+   Ziel-Person: 9
+   mit RAND: 12498371
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 13
+   RAND: 14602175
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 16
+   RAND: 16010676
+-------------------------------------------------
+###################### Takt 31 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallË*u
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 0
+   Ziel-Person: 10
+   mit RAND: 13433033
+-------------------------------------------------
+Melde Person An...
+	Person: 7
+   mit RAND: 43312970
+-------------------------------------------------
+Melde Person An...
+	Person: 9
+   mit RAND: 12498371
+-------------------------------------------------
+Melde Person An...
+	Person: 10
+   mit RAND: 13433033
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 13
+   mit RAND: 14602175
+-------------------------------------------------
+###################### Takt 32 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall¿‹t
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 0
+   RAND: 31304997
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 13
+   RAND: 82157538
+-------------------------------------------------
+###################### Takt 33 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hallòs
+--------------------------------------
+Melde Zur¸ck...
+	Person: 0
+   mit RAND: 31304997
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 13
+   Ziel-Person: 6
+   mit RAND: 82157538
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 13
+   Person b: 16
+-------------------------------------------------
+###################### Takt 34 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallXo
+--------------------------------------
+Melde Person An...
+	Person: 6
+   mit RAND: 82157538
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 16
+   mit RAND: 86127592
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 7608699
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 0
+   RAND: 25826880
+-------------------------------------------------
+###################### Takt 35 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallXo
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 0
+   Ziel-Person: 12
+   mit RAND: 25826880
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 9
+   Ziel-Person: 16
+   mit RAND: 7608699
+-------------------------------------------------
+Melde Person An...
+	Person: 12
+   mit RAND: 25826880
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+HallXo
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 12
+   RAND: 39068481
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 5837902
+-------------------------------------------------
+###################### Takt 36 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallXo
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+HallXo
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 12
+   RAND: 84247543
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 13
+   Person b: 7
+-------------------------------------------------
+###################### Takt 37 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall Øt
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hall Øt
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 16
+   Ziel-Person: 0
+   mit RAND: 60215094
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 12
+   RAND: 30577804
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 17037085
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 0
+   Person b: 10
+-------------------------------------------------
+###################### Takt 38 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hallúûp
+--------------------------------------
+Melde Zur¸ck...
+	Person: 9
+   mit RAND: 17037085
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hallúûp
+--------------------------------------
+RAND abgelaufen...
+	RAND: 43312970
+K¸ndige Person...
+	Person: 7
+   mit RAND: 43312970
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 13433033
+K¸ndige Person...
+	Person: 10
+   mit RAND: 13433033
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 14602175
+K¸ndige Person...
+	Person: 13
+   mit RAND: 14602175
+-------------------------------------------------
+###################### Takt 39 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall$hF
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 12
+   Ziel-Person: 9
+   mit RAND: 39068481
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 16
+   Ziel-Person: 1
+   mit RAND: 16010676
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 12721786
+-------------------------------------------------
+###################### Takt 40 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall$hF
+--------------------------------------
+Melde Zur¸ck...
+	Person: 0
+   mit RAND: 60215094
+-------------------------------------------------
+Melde Person An...
+	Person: 1
+   mit RAND: 16010676
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 1
+   RAND: 51776307
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 12
+   RAND: 92753048
+-------------------------------------------------
+###################### Takt 41 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hallÿçt
+--------------------------------------
+Melde Zur¸ck...
+	Person: 6
+   mit RAND: 5837902
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 16
+   mit RAND: 7608699
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 12
+   RAND: 53172409
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 83282790
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 0
+   Person b: 12
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 0
+   Person b: 12
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 9
+   Person b: 16
+-------------------------------------------------
+###################### Takt 42 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallÙq
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 6
+   Ziel-Person: 18
+   mit RAND: 12721786
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 9
+   Ziel-Person: 4
+   mit RAND: 39068481
+-------------------------------------------------
+Melde Person An...
+	Person: 10
+   mit RAND: 83282790
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 12
+   mit RAND: 84247543
+-------------------------------------------------
+Melde Person An...
+	Person: 18
+   mit RAND: 12721786
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 23020591
+-------------------------------------------------
+###################### Takt 43 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallÙq
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 1
+   Ziel-Person: 4
+   mit RAND: 51776307
+-------------------------------------------------
+Melde Person An...
+	Person: 4
+   mit RAND: 39068481
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 12
+   Ziel-Person: 3
+   mit RAND: 30577804
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 66170212
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 35724053
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 16
+   Person b: 0
+-------------------------------------------------
+###################### Takt 44 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hallµn
+--------------------------------------
+Melde Person An...
+	Person: 3
+   mit RAND: 30577804
+-------------------------------------------------
+###################### Takt 45 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall Øt
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 4
+   Ziel-Person: 12
+   mit RAND: 51776307
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 54442514
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 12
+   Person b: 9
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 16
+   Person b: 1
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 17037085
+K¸ndige Person...
+	Person: 9
+   mit RAND: 17037085
+-------------------------------------------------
+###################### Takt 46 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall–Xs
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 6
+   Ziel-Person: 9
+   mit RAND: 23020591
+-------------------------------------------------
+Melde Person An...
+	Person: 9
+   mit RAND: 23020591
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 12
+   Ziel-Person: 16
+   mit RAND: 92753048
+-------------------------------------------------
+###################### Takt 47 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallL]o
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 3
+   Ziel-Person: 2
+   mit RAND: 54442514
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallL]o
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 4
+   RAND: 74613995
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 60215094
+K¸ndige Person...
+	Person: 0
+   mit RAND: 60215094
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 16010676
+K¸ndige Person...
+	Person: 1
+   mit RAND: 16010676
+-------------------------------------------------
+###################### Takt 48 ###################
+Melde Person An...
+	Person: 2
+   mit RAND: 54442514
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hall$hF
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 12
+   Ziel-Person: 10
+   mit RAND: 53172409
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 16
+   mit RAND: 92753048
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall$hF
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 18
+   Ziel-Person: 16
+   mit RAND: 66170212
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 6
+   Person b: 18
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 5837902
+K¸ndige Person...
+	Person: 6
+   mit RAND: 5837902
+-------------------------------------------------
+###################### Takt 49 ###################
+Melde Zur¸ck...
+	Person: 10
+   mit RAND: 35724053
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+HallCs
+--------------------------------------
+Melde Zur¸ck...
+	Person: 12
+   mit RAND: 51776307
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 16
+   Ziel-Person: 15
+   mit RAND: 66170212
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallCs
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 5
+   RAND: 11014896
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 12
+   Person b: 3
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 12721786
+K¸ndige Person...
+	Person: 18
+   mit RAND: 12721786
+-------------------------------------------------
+###################### Takt 50 ###################
+Melde Zur¸ck...
+	Person: 4
+   mit RAND: 74613995
+-------------------------------------------------
+Melde Person An...
+	Person: 5
+   mit RAND: 11014896
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hallò≠{
+--------------------------------------
+Melde Person An...
+	Person: 15
+   mit RAND: 66170212
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 5
+   RAND: 1069617
+-------------------------------------------------
+###################### Takt 51 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hall¿Î|
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hall¿Î|
+--------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 4
+   Person b: 12
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 30577804
+K¸ndige Person...
+	Person: 3
+   mit RAND: 30577804
+-------------------------------------------------
+###################### Takt 52 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hall–Xs
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 10
+   Ziel-Person: 14
+   mit RAND: 53172409
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hall–Xs
+--------------------------------------
+Melde Person An...
+	Person: 14
+   mit RAND: 53172409
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall–Xs
+--------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 12
+   Person b: 16
+-------------------------------------------------
+###################### Takt 53 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hall0t
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hall0t
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall0t
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 96210558
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 23020591
+K¸ndige Person...
+	Person: 9
+   mit RAND: 23020591
+-------------------------------------------------
+###################### Takt 54 ###################
+Schenke Vertrauen...
+	Quell-Person: 5
+   Ziel-Person: 14
+   mit RAND: 1069617
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hallµn
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hallµn
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 68438119
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 96080700
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 12
+   Person b: 10
+-------------------------------------------------
+###################### Takt 55 ###################
+Nachricht f¸r mich drin
+Person: 12
+Hall¸c
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall¸c
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 15
+   Ziel-Person: 9
+   mit RAND: 96210558
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 72754701
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 63524522
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 16
+   Person b: 15
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 92753048
+K¸ndige Person...
+	Person: 16
+   mit RAND: 92753048
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 54442514
+K¸ndige Person...
+	Person: 2
+   mit RAND: 54442514
+-------------------------------------------------
+###################### Takt 56 ###################
+Melde Person An...
+	Person: 9
+   mit RAND: 96210558
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hallº]o
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 7
+   mit RAND: 1069617
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hallº]o
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 12262563
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 51776307
+K¸ndige Person...
+	Person: 12
+   mit RAND: 51776307
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 35724053
+K¸ndige Person...
+	Person: 10
+   mit RAND: 35724053
+-------------------------------------------------
+###################### Takt 57 ###################
+Melde Person An...
+	Person: 7
+   mit RAND: 1069617
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÏò
+--------------------------------------
+Melde Zur¸ck...
+	Person: 15
+   mit RAND: 96080700
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 84209224
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 74613995
+K¸ndige Person...
+	Person: 4
+   mit RAND: 74613995
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 11014896
+K¸ndige Person...
+	Person: 5
+   mit RAND: 11014896
+-------------------------------------------------
+###################### Takt 58 ###################
+Nachricht f¸r mich drin
+Person: 9
+HallLD~
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 9
+   Ziel-Person: 7
+   mit RAND: 12262563
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Halléx
+--------------------------------------
+###################### Takt 59 ###################
+Schenke Vertrauen...
+	Quell-Person: 7
+   Ziel-Person: 5
+   mit RAND: 12262563
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+HallƒûÄ
+--------------------------------------
+Melde Zur¸ck...
+	Person: 14
+   mit RAND: 68438119
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÄO|
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 7
+   RAND: 7732905
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 59290006
+-------------------------------------------------
+###################### Takt 60 ###################
+Melde Person An...
+	Person: 5
+   mit RAND: 12262563
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hall h{
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 4
+   mit RAND: 72754701
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall h{
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 5
+   RAND: 15584927
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 7
+   RAND: 76930068
+-------------------------------------------------
+###################### Takt 61 ###################
+Melde Person An...
+	Person: 4
+   mit RAND: 72754701
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+HallòXn
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 9
+   Ziel-Person: 10
+   mit RAND: 84209224
+-------------------------------------------------
+Melde Person An...
+	Person: 10
+   mit RAND: 84209224
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallòXn
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 5
+   RAND: 45805829
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 24620610
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 15
+   Person b: 9
+-------------------------------------------------
+###################### Takt 62 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hall‹õy
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall‹õy
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 15
+   Ziel-Person: 10
+   mit RAND: 63524522
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 76670811
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 14
+   Person b: 7
+-------------------------------------------------
+###################### Takt 63 ###################
+Nachricht f¸r mich drin
+Person: 9
+HallDhÑ
+--------------------------------------
+Melde Zur¸ck...
+	Person: 9
+   mit RAND: 59290006
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallDhÑ
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 74300832
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 9
+   RAND: 38263073
+-------------------------------------------------
+###################### Takt 64 ###################
+Melde Zur¸ck...
+	Person: 7
+   mit RAND: 7732905
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hall$hF
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall$hF
+--------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 9
+   Person b: 7
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 96080700
+K¸ndige Person...
+	Person: 15
+   mit RAND: 96080700
+-------------------------------------------------
+###################### Takt 65 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hall h{
+--------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 7
+   Person b: 5
+-------------------------------------------------
+###################### Takt 66 ###################
+Schenke Vertrauen...
+	Quell-Person: 7
+   Ziel-Person: 13
+   mit RAND: 76930068
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+HallÑ!Ñ
+--------------------------------------
+Melde Person An...
+	Person: 13
+   mit RAND: 76930068
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 14
+   Person b: 4
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 68438119
+K¸ndige Person...
+	Person: 14
+   mit RAND: 68438119
+-------------------------------------------------
+###################### Takt 67 ###################
+Melde Zur¸ck...
+	Person: 5
+   mit RAND: 15584927
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hall‰ˆÇ
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 9
+   Ziel-Person: 13
+   mit RAND: 24620610
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 13
+   Ziel-Person: 15
+   mit RAND: 24620610
+-------------------------------------------------
+Melde Person An...
+	Person: 15
+   mit RAND: 24620610
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 7
+   RAND: 52277934
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 9
+   Person b: 10
+-------------------------------------------------
+###################### Takt 68 ###################
+Nachricht f¸r mich drin
+Person: 7
+Hallú¨Ä
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hallú¨Ä
+--------------------------------------
+Melde Zur¸ck...
+	Person: 10
+   mit RAND: 63524522
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hallú¨Ä
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 13
+   RAND: 16793815
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 85947116
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 72754701
+K¸ndige Person...
+	Person: 4
+   mit RAND: 72754701
+-------------------------------------------------
+###################### Takt 69 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hallú]u
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hallú]u
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hallú]u
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 11722237
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 4
+   RAND: 99311578
+-------------------------------------------------
+###################### Takt 70 ###################
+Melde Person An...
+	Person: 4
+   mit RAND: 99311578
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hall§Ò~
+--------------------------------------
+Melde Zur¸ck...
+	Person: 9
+   mit RAND: 38263073
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hall§Ò~
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 13
+   Ziel-Person: 10
+   mit RAND: 16793815
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall§Ò~
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 4
+   RAND: 57675539
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 9302520
+-------------------------------------------------
+###################### Takt 71 ###################
+Schenke Vertrauen...
+	Quell-Person: 4
+   Ziel-Person: 11
+   mit RAND: 57675539
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 7
+HallÙÖy
+--------------------------------------
+Melde Zur¸ck...
+	Person: 7
+   mit RAND: 52277934
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+HallÙÖy
+--------------------------------------
+Melde Person An...
+	Person: 11
+   mit RAND: 57675539
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+HallÙÖy
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÙÖy
+--------------------------------------
+Melde Person An...
+	Person: 18
+   mit RAND: 9302520
+-------------------------------------------------
+###################### Takt 72 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hallî©Ü
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hallî©Ü
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hallî©Ü
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 3168921
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 7
+   Person b: 13
+-------------------------------------------------
+###################### Takt 73 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hallú]u
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 13
+Hallú]u
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hallú]u
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hallú]u
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 11
+   RAND: 54899142
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 9
+   Person b: 13
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 13
+   Person b: 15
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 76930068
+K¸ndige Person...
+	Person: 13
+   mit RAND: 76930068
+-------------------------------------------------
+###################### Takt 74 ###################
+Melde Zur¸ck...
+	Person: 5
+   mit RAND: 45805829
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 7
+Hall<!á
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hall<!á
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall<!á
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall<!á
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 18
+   Ziel-Person: 19
+   mit RAND: 3168921
+-------------------------------------------------
+Melde Person An...
+	Person: 19
+   mit RAND: 3168921
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 24620610
+K¸ndige Person...
+	Person: 15
+   mit RAND: 24620610
+-------------------------------------------------
+###################### Takt 75 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hallååé
+--------------------------------------
+Melde Zur¸ck...
+	Person: 10
+   mit RAND: 76670811
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hallååé
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 18125583
+-------------------------------------------------
+###################### Takt 76 ###################
+Nachricht f¸r mich drin
+Person: 9
+Hall–¥|
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall–¥|
+--------------------------------------
+###################### Takt 77 ###################
+Nachricht f¸r mich drin
+Person: 7
+Hall$hF
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 9
+Hall$hF
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall$hF
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 19
+   Ziel-Person: 0
+   mit RAND: 18125583
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 71048644
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 10
+   RAND: 82196725
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 4
+   Person b: 11
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 38263073
+K¸ndige Person...
+	Person: 9
+   mit RAND: 38263073
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 99311578
+K¸ndige Person...
+	Person: 4
+   mit RAND: 99311578
+-------------------------------------------------
+###################### Takt 78 ###################
+Melde Person An...
+	Person: 0
+   mit RAND: 18125583
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+Hallòms
+--------------------------------------
+Melde Zur¸ck...
+	Person: 11
+   mit RAND: 54899142
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hallòms
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 99386226
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 85881547
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 52277934
+K¸ndige Person...
+	Person: 7
+   mit RAND: 52277934
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 9302520
+K¸ndige Person...
+	Person: 18
+   mit RAND: 9302520
+-------------------------------------------------
+###################### Takt 79 ###################
+Nachricht f¸r mich drin
+Person: 11
+Hall¥Ñë
+--------------------------------------
+Melde Person An...
+	Person: 15
+   mit RAND: 85881547
+-------------------------------------------------
+###################### Takt 80 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall§å
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+Hall§å
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 7755088
+-------------------------------------------------
+###################### Takt 81 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallÑèÜ
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+HallÑèÜ
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÑèÜ
+--------------------------------------
+Melde Zur¸ck...
+	Person: 19
+   mit RAND: 71048644
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 56447249
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 45805829
+K¸ndige Person...
+	Person: 5
+   mit RAND: 45805829
+-------------------------------------------------
+###################### Takt 82 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallîÚÅ
+--------------------------------------
+Melde Zur¸ck...
+	Person: 10
+   mit RAND: 74300832
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+HallîÚÅ
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallîÚÅ
+--------------------------------------
+###################### Takt 83 ###################
+Nachricht f¸r mich drin
+Person: 0
+Halll7ñ
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+Halll7ñ
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Halll7ñ
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 15
+   Ziel-Person: 19
+   mit RAND: 7755088
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 19
+   Person b: 0
+-------------------------------------------------
+###################### Takt 84 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hallååé
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+Hallååé
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hallååé
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 70526430
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 649031
+-------------------------------------------------
+###################### Takt 85 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall|yö
+--------------------------------------
+Melde Person An...
+	Person: 3
+   mit RAND: 649031
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 10
+   Ziel-Person: 7
+   mit RAND: 85947116
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 11
+Hall|yö
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall|yö
+--------------------------------------
+RAND abgelaufen...
+	RAND: 54899142
+K¸ndige Person...
+	Person: 11
+   mit RAND: 54899142
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 18125583
+K¸ndige Person...
+	Person: 0
+   mit RAND: 18125583
+-------------------------------------------------
+###################### Takt 86 ###################
+Melde Person An...
+	Person: 7
+   mit RAND: 85947116
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall‰r
+--------------------------------------
+Melde Zur¸ck...
+	Person: 15
+   mit RAND: 56447249
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 41719452
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 36250093
+-------------------------------------------------
+###################### Takt 87 ###################
+Nachricht f¸r mich drin
+Person: 15
+Hallmû
+--------------------------------------
+Melde Person An...
+	Person: 18
+   mit RAND: 41719452
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 32921354
+-------------------------------------------------
+###################### Takt 88 ###################
+Schenke Vertrauen...
+	Quell-Person: 10
+   Ziel-Person: 8
+   mit RAND: 11722237
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall\zö
+--------------------------------------
+Melde Zur¸ck...
+	Person: 19
+   mit RAND: 99386226
+-------------------------------------------------
+###################### Takt 89 ###################
+Melde Person An...
+	Person: 8
+   mit RAND: 11722237
+-------------------------------------------------
+Melde Zur¸ck...
+	Person: 10
+   mit RAND: 16793815
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall\„°
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall\„°
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 18
+   RAND: 64341635
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 88007336
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 15
+   Person b: 19
+-------------------------------------------------
+###################### Takt 90 ###################
+Nachricht f¸r mich drin
+Person: 7
+HallÙ:¢
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 10
+   Ziel-Person: 8
+   mit RAND: 82196725
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÙ:¢
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallÙ:¢
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 19
+   Ziel-Person: 12
+   mit RAND: 7755088
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 14462857
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 15
+   RAND: 26660598
+-------------------------------------------------
+###################### Takt 91 ###################
+Nachricht f¸r mich drin
+Person: 8
+Halldy§
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 8
+   Ziel-Person: 3
+   mit RAND: 82196725
+-------------------------------------------------
+Melde Person An...
+	Person: 12
+   mit RAND: 7755088
+-------------------------------------------------
+Melde Person An...
+	Person: 14
+   mit RAND: 14462857
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Halldy§
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Halldy§
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 74520959
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 8692340
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 10
+   Person b: 7
+-------------------------------------------------
+###################### Takt 92 ###################
+Melde Zur¸ck...
+	Person: 3
+   mit RAND: 82196725
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 8
+Hall8Ñ¶
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall8Ñ¶
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall8Ñ¶
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 18
+   Ziel-Person: 0
+   mit RAND: 32921354
+-------------------------------------------------
+###################### Takt 93 ###################
+Melde Person An...
+	Person: 0
+   mit RAND: 32921354
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 7
+Hall∏®®
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 8
+Hall∏®®
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+Hall∏®®
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall∏®®
+--------------------------------------
+Melde Zur¸ck...
+	Person: 15
+   mit RAND: 70526430
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall∏®®
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 97511141
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 3
+   RAND: 51161762
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 85947116
+K¸ndige Person...
+	Person: 7
+   mit RAND: 85947116
+-------------------------------------------------
+###################### Takt 94 ###################
+Nachricht f¸r mich drin
+Person: 8
+HallòXn
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 10
+HallòXn
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 12
+HallòXn
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 14
+   Ziel-Person: 0
+   mit RAND: 74520959
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallòXn
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallòXn
+--------------------------------------
+Melde Zur¸ck...
+	Person: 18
+   mit RAND: 64341635
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 10
+   Person b: 8
+-------------------------------------------------
+###################### Takt 95 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall|£
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 0
+   Ziel-Person: 18
+   mit RAND: 74520959
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 3
+   Ziel-Person: 12
+   mit RAND: 51161762
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 8
+Hall|£
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 10
+Hall|£
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 12
+   Ziel-Person: 4
+   mit RAND: 51161762
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 14
+Hall|£
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall|£
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall|£
+--------------------------------------
+Melde Zur¸ck...
+	Person: 19
+   mit RAND: 8692340
+-------------------------------------------------
+###################### Takt 96 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallÑv†
+--------------------------------------
+Melde Person An...
+	Person: 4
+   mit RAND: 51161762
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 8
+HallÑv†
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 10
+HallÑv†
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÑv†
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallÑv†
+--------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 10
+   Person b: 8
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 19
+   Person b: 12
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 16793815
+K¸ndige Person...
+	Person: 10
+   mit RAND: 16793815
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 11722237
+K¸ndige Person...
+	Person: 8
+   mit RAND: 11722237
+-------------------------------------------------
+###################### Takt 97 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall$hF
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallTÙÑ
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallTÙÑ
+--------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 18
+   Ziel-Person: 6
+   mit RAND: 74520959
+-------------------------------------------------
+###################### Takt 98 ###################
+Nachricht f¸r mich drin
+Person: 0
+Hall	å
+--------------------------------------
+Melde Person An...
+	Person: 6
+   mit RAND: 74520959
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 14
+Hall	å
+--------------------------------------
+Melde Zur¸ck...
+	Person: 14
+   mit RAND: 97511141
+-------------------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+Hall	å
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+Hall	å
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 14
+   RAND: 57036603
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 7755088
+K¸ndige Person...
+	Person: 12
+   mit RAND: 7755088
+-------------------------------------------------
+###################### Takt 99 ###################
+Nachricht f¸r mich drin
+Person: 0
+HallƒF∞
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 15
+HallÑ™u
+--------------------------------------
+Nachricht f¸r mich drin
+Person: 18
+HallÑ™u
+--------------------------------------
+TrustServer schenkt RAND...
+	An Person: 6
+   RAND: 10296064
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 7
+   RAND: 3628545
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 82196725
+K¸ndige Person...
+	Person: 3
+   mit RAND: 82196725
+-------------------------------------------------

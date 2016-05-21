@@ -1,0 +1,22 @@
+AUFGABE 6   -   Personen haben Prioritäten
+AUFGABE 1  -  Wann können zwei Sprachen übersetzt werden?
+
+Englisch kann in Deutsch übersetzt werden!
+Französisch kann in Deutsch übersetzt werden!
+Französisch kann in Englisch übersetzt werden!
+Französisch kann in Schwyzerdütsch übersetzt werden!
+Italienisch kann in Deutsch übersetzt werden!
+Italienisch kann in Schwyzerdütsch übersetzt werden!
+Spanisch kann in Deutsch übersetzt werden!
+Portugisisch kann in Deutsch übersetzt werden!
+Dänisch kann in Deutsch übersetzt werden!
+Dänisch kann in Englisch übersetzt werden!
+Niederländisch kann in Deutsch übersetzt werden!
+Niederländisch kann in Englisch übersetzt werden!
+Schwedisch kann in Deutsch übersetzt werden!
+Kroatisch kann in Russisch übersetzt werden!
+Polnisch kann in Russisch übersetzt werden!
+Tschechisch kann in Russisch übersetzt werden!
+Ungarisch kann in Russisch übersetzt werden!
+Serbisch kann in Russisch übersetzt werden!
+Serbisch kann in Kroatisch übersetzt werden!

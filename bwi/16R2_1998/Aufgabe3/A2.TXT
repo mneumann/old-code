@@ -1,0 +1,242 @@
+AUFGABE 2  -  Über wieviele Zwischenstationen geht die Übersetzung mindestens?
+
+Deutsch -> Englisch:   0
+Deutsch -> Französisch:   0
+Deutsch -> Italienisch:   0
+Deutsch -> Spanisch:   0
+Deutsch -> Portugisisch:   0
+Deutsch -> Schwyzerdütsch:   1
+Deutsch -> Dänisch:   0
+Deutsch -> Niederländisch:   1
+Deutsch -> Schwedisch:   0
+Deutsch -> Russisch:   keine Übersetzung möglich!
+Deutsch -> Kroatisch:   keine Übersetzung möglich!
+Deutsch -> Polnisch:   keine Übersetzung möglich!
+Deutsch -> Tschechisch:   keine Übersetzung möglich!
+Deutsch -> Ungarisch:   keine Übersetzung möglich!
+Deutsch -> Serbisch:   keine Übersetzung möglich!
+Englisch -> Deutsch:   0
+Englisch -> Französisch:   0
+Englisch -> Italienisch:   0
+Englisch -> Spanisch:   1
+Englisch -> Portugisisch:   1
+Englisch -> Schwyzerdütsch:   1
+Englisch -> Dänisch:   0
+Englisch -> Niederländisch:   0
+Englisch -> Schwedisch:   1
+Englisch -> Russisch:   keine Übersetzung möglich!
+Englisch -> Kroatisch:   keine Übersetzung möglich!
+Englisch -> Polnisch:   keine Übersetzung möglich!
+Englisch -> Tschechisch:   keine Übersetzung möglich!
+Englisch -> Ungarisch:   keine Übersetzung möglich!
+Englisch -> Serbisch:   keine Übersetzung möglich!
+Französisch -> Deutsch:   0
+Französisch -> Englisch:   0
+Französisch -> Italienisch:   0
+Französisch -> Spanisch:   1
+Französisch -> Portugisisch:   1
+Französisch -> Schwyzerdütsch:   0
+Französisch -> Dänisch:   0
+Französisch -> Niederländisch:   0
+Französisch -> Schwedisch:   1
+Französisch -> Russisch:   keine Übersetzung möglich!
+Französisch -> Kroatisch:   keine Übersetzung möglich!
+Französisch -> Polnisch:   keine Übersetzung möglich!
+Französisch -> Tschechisch:   keine Übersetzung möglich!
+Französisch -> Ungarisch:   keine Übersetzung möglich!
+Französisch -> Serbisch:   keine Übersetzung möglich!
+Italienisch -> Deutsch:   0
+Italienisch -> Englisch:   0
+Italienisch -> Französisch:   0
+Italienisch -> Spanisch:   1
+Italienisch -> Portugisisch:   1
+Italienisch -> Schwyzerdütsch:   0
+Italienisch -> Dänisch:   1
+Italienisch -> Niederländisch:   1
+Italienisch -> Schwedisch:   1
+Italienisch -> Russisch:   keine Übersetzung möglich!
+Italienisch -> Kroatisch:   keine Übersetzung möglich!
+Italienisch -> Polnisch:   keine Übersetzung möglich!
+Italienisch -> Tschechisch:   keine Übersetzung möglich!
+Italienisch -> Ungarisch:   keine Übersetzung möglich!
+Italienisch -> Serbisch:   keine Übersetzung möglich!
+Spanisch -> Deutsch:   0
+Spanisch -> Englisch:   1
+Spanisch -> Französisch:   1
+Spanisch -> Italienisch:   1
+Spanisch -> Portugisisch:   0
+Spanisch -> Schwyzerdütsch:   2
+Spanisch -> Dänisch:   1
+Spanisch -> Niederländisch:   2
+Spanisch -> Schwedisch:   1
+Spanisch -> Russisch:   keine Übersetzung möglich!
+Spanisch -> Kroatisch:   keine Übersetzung möglich!
+Spanisch -> Polnisch:   keine Übersetzung möglich!
+Spanisch -> Tschechisch:   keine Übersetzung möglich!
+Spanisch -> Ungarisch:   keine Übersetzung möglich!
+Spanisch -> Serbisch:   keine Übersetzung möglich!
+Portugisisch -> Deutsch:   0
+Portugisisch -> Englisch:   1
+Portugisisch -> Französisch:   1
+Portugisisch -> Italienisch:   1
+Portugisisch -> Spanisch:   0
+Portugisisch -> Schwyzerdütsch:   2
+Portugisisch -> Dänisch:   1
+Portugisisch -> Niederländisch:   2
+Portugisisch -> Schwedisch:   1
+Portugisisch -> Russisch:   keine Übersetzung möglich!
+Portugisisch -> Kroatisch:   keine Übersetzung möglich!
+Portugisisch -> Polnisch:   keine Übersetzung möglich!
+Portugisisch -> Tschechisch:   keine Übersetzung möglich!
+Portugisisch -> Ungarisch:   keine Übersetzung möglich!
+Portugisisch -> Serbisch:   keine Übersetzung möglich!
+Schwyzerdütsch -> Deutsch:   1
+Schwyzerdütsch -> Englisch:   1
+Schwyzerdütsch -> Französisch:   0
+Schwyzerdütsch -> Italienisch:   0
+Schwyzerdütsch -> Spanisch:   2
+Schwyzerdütsch -> Portugisisch:   2
+Schwyzerdütsch -> Dänisch:   1
+Schwyzerdütsch -> Niederländisch:   1
+Schwyzerdütsch -> Schwedisch:   2
+Schwyzerdütsch -> Russisch:   keine Übersetzung möglich!
+Schwyzerdütsch -> Kroatisch:   keine Übersetzung möglich!
+Schwyzerdütsch -> Polnisch:   keine Übersetzung möglich!
+Schwyzerdütsch -> Tschechisch:   keine Übersetzung möglich!
+Schwyzerdütsch -> Ungarisch:   keine Übersetzung möglich!
+Schwyzerdütsch -> Serbisch:   keine Übersetzung möglich!
+Dänisch -> Deutsch:   0
+Dänisch -> Englisch:   0
+Dänisch -> Französisch:   0
+Dänisch -> Italienisch:   1
+Dänisch -> Spanisch:   1
+Dänisch -> Portugisisch:   1
+Dänisch -> Schwyzerdütsch:   1
+Dänisch -> Niederländisch:   0
+Dänisch -> Schwedisch:   0
+Dänisch -> Russisch:   keine Übersetzung möglich!
+Dänisch -> Kroatisch:   keine Übersetzung möglich!
+Dänisch -> Polnisch:   keine Übersetzung möglich!
+Dänisch -> Tschechisch:   keine Übersetzung möglich!
+Dänisch -> Ungarisch:   keine Übersetzung möglich!
+Dänisch -> Serbisch:   keine Übersetzung möglich!
+Niederländisch -> Deutsch:   1
+Niederländisch -> Englisch:   0
+Niederländisch -> Französisch:   0
+Niederländisch -> Italienisch:   1
+Niederländisch -> Spanisch:   2
+Niederländisch -> Portugisisch:   2
+Niederländisch -> Schwyzerdütsch:   1
+Niederländisch -> Dänisch:   0
+Niederländisch -> Schwedisch:   1
+Niederländisch -> Russisch:   keine Übersetzung möglich!
+Niederländisch -> Kroatisch:   keine Übersetzung möglich!
+Niederländisch -> Polnisch:   keine Übersetzung möglich!
+Niederländisch -> Tschechisch:   keine Übersetzung möglich!
+Niederländisch -> Ungarisch:   keine Übersetzung möglich!
+Niederländisch -> Serbisch:   keine Übersetzung möglich!
+Schwedisch -> Deutsch:   0
+Schwedisch -> Englisch:   1
+Schwedisch -> Französisch:   1
+Schwedisch -> Italienisch:   1
+Schwedisch -> Spanisch:   1
+Schwedisch -> Portugisisch:   1
+Schwedisch -> Schwyzerdütsch:   2
+Schwedisch -> Dänisch:   0
+Schwedisch -> Niederländisch:   1
+Schwedisch -> Russisch:   keine Übersetzung möglich!
+Schwedisch -> Kroatisch:   keine Übersetzung möglich!
+Schwedisch -> Polnisch:   keine Übersetzung möglich!
+Schwedisch -> Tschechisch:   keine Übersetzung möglich!
+Schwedisch -> Ungarisch:   keine Übersetzung möglich!
+Schwedisch -> Serbisch:   keine Übersetzung möglich!
+Russisch -> Deutsch:   keine Übersetzung möglich!
+Russisch -> Englisch:   keine Übersetzung möglich!
+Russisch -> Französisch:   keine Übersetzung möglich!
+Russisch -> Italienisch:   keine Übersetzung möglich!
+Russisch -> Spanisch:   keine Übersetzung möglich!
+Russisch -> Portugisisch:   keine Übersetzung möglich!
+Russisch -> Schwyzerdütsch:   keine Übersetzung möglich!
+Russisch -> Dänisch:   keine Übersetzung möglich!
+Russisch -> Niederländisch:   keine Übersetzung möglich!
+Russisch -> Schwedisch:   keine Übersetzung möglich!
+Russisch -> Kroatisch:   0
+Russisch -> Polnisch:   0
+Russisch -> Tschechisch:   0
+Russisch -> Ungarisch:   0
+Russisch -> Serbisch:   1
+Kroatisch -> Deutsch:   keine Übersetzung möglich!
+Kroatisch -> Englisch:   keine Übersetzung möglich!
+Kroatisch -> Französisch:   keine Übersetzung möglich!
+Kroatisch -> Italienisch:   keine Übersetzung möglich!
+Kroatisch -> Spanisch:   keine Übersetzung möglich!
+Kroatisch -> Portugisisch:   keine Übersetzung möglich!
+Kroatisch -> Schwyzerdütsch:   keine Übersetzung möglich!
+Kroatisch -> Dänisch:   keine Übersetzung möglich!
+Kroatisch -> Niederländisch:   keine Übersetzung möglich!
+Kroatisch -> Schwedisch:   keine Übersetzung möglich!
+Kroatisch -> Russisch:   0
+Kroatisch -> Polnisch:   0
+Kroatisch -> Tschechisch:   0
+Kroatisch -> Ungarisch:   0
+Kroatisch -> Serbisch:   0
+Polnisch -> Deutsch:   keine Übersetzung möglich!
+Polnisch -> Englisch:   keine Übersetzung möglich!
+Polnisch -> Französisch:   keine Übersetzung möglich!
+Polnisch -> Italienisch:   keine Übersetzung möglich!
+Polnisch -> Spanisch:   keine Übersetzung möglich!
+Polnisch -> Portugisisch:   keine Übersetzung möglich!
+Polnisch -> Schwyzerdütsch:   keine Übersetzung möglich!
+Polnisch -> Dänisch:   keine Übersetzung möglich!
+Polnisch -> Niederländisch:   keine Übersetzung möglich!
+Polnisch -> Schwedisch:   keine Übersetzung möglich!
+Polnisch -> Russisch:   0
+Polnisch -> Kroatisch:   0
+Polnisch -> Tschechisch:   0
+Polnisch -> Ungarisch:   0
+Polnisch -> Serbisch:   1
+Tschechisch -> Deutsch:   keine Übersetzung möglich!
+Tschechisch -> Englisch:   keine Übersetzung möglich!
+Tschechisch -> Französisch:   keine Übersetzung möglich!
+Tschechisch -> Italienisch:   keine Übersetzung möglich!
+Tschechisch -> Spanisch:   keine Übersetzung möglich!
+Tschechisch -> Portugisisch:   keine Übersetzung möglich!
+Tschechisch -> Schwyzerdütsch:   keine Übersetzung möglich!
+Tschechisch -> Dänisch:   keine Übersetzung möglich!
+Tschechisch -> Niederländisch:   keine Übersetzung möglich!
+Tschechisch -> Schwedisch:   keine Übersetzung möglich!
+Tschechisch -> Russisch:   0
+Tschechisch -> Kroatisch:   0
+Tschechisch -> Polnisch:   0
+Tschechisch -> Ungarisch:   0
+Tschechisch -> Serbisch:   1
+Ungarisch -> Deutsch:   keine Übersetzung möglich!
+Ungarisch -> Englisch:   keine Übersetzung möglich!
+Ungarisch -> Französisch:   keine Übersetzung möglich!
+Ungarisch -> Italienisch:   keine Übersetzung möglich!
+Ungarisch -> Spanisch:   keine Übersetzung möglich!
+Ungarisch -> Portugisisch:   keine Übersetzung möglich!
+Ungarisch -> Schwyzerdütsch:   keine Übersetzung möglich!
+Ungarisch -> Dänisch:   keine Übersetzung möglich!
+Ungarisch -> Niederländisch:   keine Übersetzung möglich!
+Ungarisch -> Schwedisch:   keine Übersetzung möglich!
+Ungarisch -> Russisch:   0
+Ungarisch -> Kroatisch:   0
+Ungarisch -> Polnisch:   0
+Ungarisch -> Tschechisch:   0
+Ungarisch -> Serbisch:   1
+Serbisch -> Deutsch:   keine Übersetzung möglich!
+Serbisch -> Englisch:   keine Übersetzung möglich!
+Serbisch -> Französisch:   keine Übersetzung möglich!
+Serbisch -> Italienisch:   keine Übersetzung möglich!
+Serbisch -> Spanisch:   keine Übersetzung möglich!
+Serbisch -> Portugisisch:   keine Übersetzung möglich!
+Serbisch -> Schwyzerdütsch:   keine Übersetzung möglich!
+Serbisch -> Dänisch:   keine Übersetzung möglich!
+Serbisch -> Niederländisch:   keine Übersetzung möglich!
+Serbisch -> Schwedisch:   keine Übersetzung möglich!
+Serbisch -> Russisch:   1
+Serbisch -> Kroatisch:   0
+Serbisch -> Polnisch:   1
+Serbisch -> Tschechisch:   1
+Serbisch -> Ungarisch:   1

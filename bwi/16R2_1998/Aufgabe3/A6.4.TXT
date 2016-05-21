@@ -1,0 +1,4 @@
+AUFGABE 6   -   Personen haben Prioritäten
+AUFGABE 4  -  Was wenn Personen auf Dienstreise gehen? Welche können gleichzeitig weg sein
+
+Es können gleichzeitig folgende Dolmetscher fehlen: 7  

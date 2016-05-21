@@ -1,0 +1,34 @@
+AUFGABE 5  -  Welche Sprachen sind als Zwischen-Stationen wichtig/weniger wichtig?
+
+Stufe 1:256
+Deutsch
+
+Stufe 2:234
+Französisch
+
+Stufe 3:176
+Dänisch
+
+Stufe 4:132
+Englisch
+
+Stufe 5:122
+Italienisch
+
+Stufe 6:40
+Kroatisch
+
+Stufe 7:20
+Russisch
+Tschechisch
+
+Stufe 8:0
+Spanisch
+Portugisisch
+Schwyzerdütsch
+Niederländisch
+Schwedisch
+Polnisch
+Ungarisch
+Serbisch
+

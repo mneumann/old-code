@@ -1,0 +1,611 @@
+###################### Takt 0 ###################
+Melde Person An...
+	Person: 0
+   mit RAND: 31651010
+-------------------------------------------------
+Melde Person An...
+	Person: 1
+   mit RAND: 50542087
+-------------------------------------------------
+Melde Person An...
+	Person: 2
+   mit RAND: 64629211
+-------------------------------------------------
+Melde Person An...
+	Person: 4
+   mit RAND: 24147232
+-------------------------------------------------
+Melde Person An...
+	Person: 5
+   mit RAND: 58158428
+-------------------------------------------------
+Melde Person An...
+	Person: 7
+   mit RAND: 63689389
+-------------------------------------------------
+Melde Person An...
+	Person: 9
+   mit RAND: 18157473
+-------------------------------------------------
+Melde Person An...
+	Person: 12
+   mit RAND: 44423370
+-------------------------------------------------
+Melde Person An...
+	Person: 13
+   mit RAND: 40136771
+-------------------------------------------------
+Melde Person An...
+	Person: 15
+   mit RAND: 13253992
+-------------------------------------------------
+Melde Person An...
+	Person: 17
+   mit RAND: 40207433
+-------------------------------------------------
+Melde Person An...
+	Person: 19
+   mit RAND: 17997494
+-------------------------------------------------
+Melde Person An...
+	Person: 20
+   mit RAND: 76945516
+-------------------------------------------------
+Melde Person An...
+	Person: 21
+   mit RAND: 49952575
+-------------------------------------------------
+Melde Person An...
+	Person: 22
+   mit RAND: 54689076
+-------------------------------------------------
+Melde Person An...
+	Person: 25
+   mit RAND: 22271397
+-------------------------------------------------
+Melde Person An...
+	Person: 27
+   mit RAND: 21571938
+-------------------------------------------------
+Melde Person An...
+	Person: 29
+   mit RAND: 42831099
+-------------------------------------------------
+Melde Person An...
+	Person: 34
+   mit RAND: 39417280
+-------------------------------------------------
+Melde Person An...
+	Person: 37
+   mit RAND: 12786881
+-------------------------------------------------
+Melde Person An...
+	Person: 40
+   mit RAND: 64644302
+-------------------------------------------------
+Melde Person An...
+	Person: 41
+   mit RAND: 20301943
+-------------------------------------------------
+Melde Person An...
+	Person: 43
+   mit RAND: 7240204
+-------------------------------------------------
+Melde Person An...
+	Person: 45
+   mit RAND: 52867485
+-------------------------------------------------
+Melde Person An...
+	Person: 53
+   mit RAND: 45480186
+-------------------------------------------------
+Melde Person An...
+	Person: 55
+   mit RAND: 82422707
+-------------------------------------------------
+Melde Person An...
+	Person: 57
+   mit RAND: 9447448
+-------------------------------------------------
+Melde Person An...
+	Person: 58
+   mit RAND: 35274809
+-------------------------------------------------
+Melde Person An...
+	Person: 59
+   mit RAND: 85353190
+-------------------------------------------------
+Melde Person An...
+	Person: 60
+   mit RAND: 38818991
+-------------------------------------------------
+Melde Person An...
+	Person: 61
+   mit RAND: 72656612
+-------------------------------------------------
+Melde Person An...
+	Person: 63
+   mit RAND: 17058453
+-------------------------------------------------
+Melde Person An...
+	Person: 66
+   mit RAND: 5984914
+-------------------------------------------------
+Melde Person An...
+	Person: 68
+   mit RAND: 86924395
+-------------------------------------------------
+Melde Person An...
+	Person: 70
+   mit RAND: 33853296
+-------------------------------------------------
+Melde Person An...
+	Person: 72
+   mit RAND: 87396017
+-------------------------------------------------
+Melde Person An...
+	Person: 74
+   mit RAND: 26184958
+-------------------------------------------------
+Melde Person An...
+	Person: 77
+   mit RAND: 53420519
+-------------------------------------------------
+Melde Person An...
+	Person: 80
+   mit RAND: 62631100
+-------------------------------------------------
+Melde Person An...
+	Person: 82
+   mit RAND: 26633101
+-------------------------------------------------
+Melde Person An...
+	Person: 84
+   mit RAND: 33690922
+-------------------------------------------------
+Melde Person An...
+	Person: 85
+   mit RAND: 74876963
+-------------------------------------------------
+Melde Person An...
+	Person: 88
+   mit RAND: 66631624
+-------------------------------------------------
+Melde Person An...
+	Person: 89
+   mit RAND: 72523305
+-------------------------------------------------
+Melde Person An...
+	Person: 91
+   mit RAND: 68208406
+-------------------------------------------------
+Melde Person An...
+	Person: 93
+   mit RAND: 73591327
+-------------------------------------------------
+Melde Person An...
+	Person: 95
+   mit RAND: 56184468
+-------------------------------------------------
+Melde Person An...
+	Person: 99
+   mit RAND: 89668229
+-------------------------------------------------
+###################### Takt 1 ###################
+###################### Takt 2 ###################
+TrustServer schenkt RAND...
+	An Person: 17
+   RAND: 57408637
+-------------------------------------------------
+###################### Takt 3 ###################
+###################### Takt 4 ###################
+Schenke Vertrauen...
+	Quell-Person: 17
+   Ziel-Person: 97
+   mit RAND: 57408637
+-------------------------------------------------
+Melde Person An...
+	Person: 97
+   mit RAND: 57408637
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 97
+   RAND: 63845978
+-------------------------------------------------
+###################### Takt 5 ###################
+Schenke Vertrauen...
+	Quell-Person: 13
+   Ziel-Person: 62
+   mit RAND: 21580334
+-------------------------------------------------
+Melde Person An...
+	Person: 62
+   mit RAND: 21580334
+-------------------------------------------------
+###################### Takt 6 ###################
+TrustServer schenkt RAND...
+	An Person: 62
+   RAND: 16417939
+-------------------------------------------------
+###################### Takt 7 ###################
+Schenke Vertrauen...
+	Quell-Person: 62
+   Ziel-Person: 23
+   mit RAND: 16417939
+-------------------------------------------------
+###################### Takt 8 ###################
+Melde Person An...
+	Person: 23
+   mit RAND: 16417939
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 23
+   RAND: 32812920
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 17
+   Person b: 97
+-------------------------------------------------
+###################### Takt 9 ###################
+Vertrauensbeziehung abgelaufen...
+	Person a: 13
+   Person b: 62
+-------------------------------------------------
+###################### Takt 10 ###################
+Melde Zurück...
+	Person: 19
+   mit RAND: 10064215
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 21207321
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 50542087
+Kündige Person...
+	Person: 1
+   mit RAND: 50542087
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 58158428
+Kündige Person...
+	Person: 5
+   mit RAND: 58158428
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 63689389
+Kündige Person...
+	Person: 7
+   mit RAND: 63689389
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 44423370
+Kündige Person...
+	Person: 12
+   mit RAND: 44423370
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 40136771
+Kündige Person...
+	Person: 13
+   mit RAND: 40136771
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 13253992
+Kündige Person...
+	Person: 15
+   mit RAND: 13253992
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 40207433
+Kündige Person...
+	Person: 17
+   mit RAND: 40207433
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 49952575
+Kündige Person...
+	Person: 21
+   mit RAND: 49952575
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 54689076
+Kündige Person...
+	Person: 22
+   mit RAND: 54689076
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 22271397
+Kündige Person...
+	Person: 25
+   mit RAND: 22271397
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 21571938
+Kündige Person...
+	Person: 27
+   mit RAND: 21571938
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 42831099
+Kündige Person...
+	Person: 29
+   mit RAND: 42831099
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 39417280
+Kündige Person...
+	Person: 34
+   mit RAND: 39417280
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 12786881
+Kündige Person...
+	Person: 37
+   mit RAND: 12786881
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 64644302
+Kündige Person...
+	Person: 40
+   mit RAND: 64644302
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 20301943
+Kündige Person...
+	Person: 41
+   mit RAND: 20301943
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 7240204
+Kündige Person...
+	Person: 43
+   mit RAND: 7240204
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 52867485
+Kündige Person...
+	Person: 45
+   mit RAND: 52867485
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 45480186
+Kündige Person...
+	Person: 53
+   mit RAND: 45480186
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 82422707
+Kündige Person...
+	Person: 55
+   mit RAND: 82422707
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 9447448
+Kündige Person...
+	Person: 57
+   mit RAND: 9447448
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 35274809
+Kündige Person...
+	Person: 58
+   mit RAND: 35274809
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 85353190
+Kündige Person...
+	Person: 59
+   mit RAND: 85353190
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 38818991
+Kündige Person...
+	Person: 60
+   mit RAND: 38818991
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 72656612
+Kündige Person...
+	Person: 61
+   mit RAND: 72656612
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 17058453
+Kündige Person...
+	Person: 63
+   mit RAND: 17058453
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 5984914
+Kündige Person...
+	Person: 66
+   mit RAND: 5984914
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 86924395
+Kündige Person...
+	Person: 68
+   mit RAND: 86924395
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 33853296
+Kündige Person...
+	Person: 70
+   mit RAND: 33853296
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 87396017
+Kündige Person...
+	Person: 72
+   mit RAND: 87396017
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 26184958
+Kündige Person...
+	Person: 74
+   mit RAND: 26184958
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 53420519
+Kündige Person...
+	Person: 77
+   mit RAND: 53420519
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 62631100
+Kündige Person...
+	Person: 80
+   mit RAND: 62631100
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 26633101
+Kündige Person...
+	Person: 82
+   mit RAND: 26633101
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 33690922
+Kündige Person...
+	Person: 84
+   mit RAND: 33690922
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 74876963
+Kündige Person...
+	Person: 85
+   mit RAND: 74876963
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 66631624
+Kündige Person...
+	Person: 88
+   mit RAND: 66631624
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 72523305
+Kündige Person...
+	Person: 89
+   mit RAND: 72523305
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 68208406
+Kündige Person...
+	Person: 91
+   mit RAND: 68208406
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 73591327
+Kündige Person...
+	Person: 93
+   mit RAND: 73591327
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 56184468
+Kündige Person...
+	Person: 95
+   mit RAND: 56184468
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 89668229
+Kündige Person...
+	Person: 99
+   mit RAND: 89668229
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 31651010
+Kündige Person...
+	Person: 0
+   mit RAND: 31651010
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 64629211
+Kündige Person...
+	Person: 2
+   mit RAND: 64629211
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 24147232
+Kündige Person...
+	Person: 4
+   mit RAND: 24147232
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 18157473
+Kündige Person...
+	Person: 9
+   mit RAND: 18157473
+-------------------------------------------------
+RAND abgelaufen...
+	RAND: 76945516
+Kündige Person...
+	Person: 20
+   mit RAND: 76945516
+-------------------------------------------------
+###################### Takt 11 ###################
+Vertrauensbeziehung abgelaufen...
+	Person a: 62
+   Person b: 23
+-------------------------------------------------
+###################### Takt 12 ###################
+TrustServer schenkt RAND...
+	An Person: 19
+   RAND: 425542
+-------------------------------------------------
+###################### Takt 13 ###################
+Schenke Vertrauen...
+	Quell-Person: 19
+   Ziel-Person: 98
+   mit RAND: 21207321
+-------------------------------------------------
+Schenke Vertrauen...
+	Quell-Person: 23
+   Ziel-Person: 70
+   mit RAND: 32812920
+-------------------------------------------------
+Melde Person An...
+	Person: 70
+   mit RAND: 32812920
+-------------------------------------------------
+Melde Person An...
+	Person: 98
+   mit RAND: 21207321
+-------------------------------------------------
+###################### Takt 14 ###################
+Melde Zurück...
+	Person: 97
+   mit RAND: 63845978
+-------------------------------------------------
+TrustServer schenkt RAND...
+	An Person: 98
+   RAND: 51299983
+-------------------------------------------------
+###################### Takt 15 ###################
+RAND abgelaufen...
+	RAND: 21580334
+Kündige Person...
+	Person: 62
+   mit RAND: 21580334
+-------------------------------------------------
+###################### Takt 16 ###################
+TrustServer schenkt RAND...
+	An Person: 97
+   RAND: 83231044
+-------------------------------------------------
+###################### Takt 17 ###################
+Vertrauensbeziehung abgelaufen...
+	Person a: 19
+   Person b: 98
+-------------------------------------------------
+Vertrauensbeziehung abgelaufen...
+	Person a: 23
+   Person b: 70
+-------------------------------------------------
+###################### Takt 18 ###################
+RAND abgelaufen...
+	RAND: 16417939
+Kündige Person...
+	Person: 23
+   mit RAND: 16417939
+-------------------------------------------------
+###################### Takt 19 ###################
